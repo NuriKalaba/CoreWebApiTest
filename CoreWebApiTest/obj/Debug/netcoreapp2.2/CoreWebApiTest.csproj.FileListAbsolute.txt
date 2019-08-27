@@ -1,0 +1,14 @@
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\bin\Debug\netcoreapp2.2\CoreWebApiTest.deps.json
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\bin\Debug\netcoreapp2.2\CoreWebApiTest.runtimeconfig.json
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\bin\Debug\netcoreapp2.2\CoreWebApiTest.runtimeconfig.dev.json
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\bin\Debug\netcoreapp2.2\CoreWebApiTest.dll
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\bin\Debug\netcoreapp2.2\CoreWebApiTest.pdb
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.csprojAssemblyReference.cache
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.csproj.CoreCompileInputs.cache
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.RazorAssemblyInfo.cache
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.RazorAssemblyInfo.cs
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.AssemblyInfoInputs.cache
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.AssemblyInfo.cs
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.RazorTargetAssemblyInfo.cache
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.dll
+C:\Users\ekaramanlier\source\repos\CoreWebApiTest\CoreWebApiTest\obj\Debug\netcoreapp2.2\CoreWebApiTest.pdb
